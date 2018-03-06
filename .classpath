@@ -21,5 +21,6 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/student/Downloads/sts-bundle/pivotal-tc-server-developer-3.2.4.SR1/tomcat-7.0.72.C.RELEASE/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
